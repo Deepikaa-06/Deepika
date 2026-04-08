@@ -17,8 +17,8 @@
 ## 🙋‍♀️ About Me
 
 ```python
-deepika = {
-    "name"        : "Deepika Singh",
+Deepika = {
+    "name"        : "Deepika",
     "location"    : "Noida, India",
     "role"        : "Aspiring Data Analyst",
     "passion"     : ["Data Cleaning", "EDA", "Visualization", "Storytelling with Data"],
@@ -59,17 +59,17 @@ deepika = {
 ## 📊 GitHub Stats & KPIs
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepika-06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=deepikaa-06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepika-06&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepikaa-06&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepika-06&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepikaa-06&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deepika-06&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=deepikaa-06&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -78,9 +78,9 @@ deepika = {
 
 | # | Project | Tools | Description | Link |
 |---|---------|-------|-------------|------|
-| 01 | 🛒 **BigBasket EDA** | Python, Pandas, Seaborn | Analyzed 27K+ products — pricing, discounts, ratings & top brands | [View Repo](https://github.com/deepika-06) |
-| 02 | 🍽️ **Zomato EDA** | Python, Matplotlib, Seaborn | Explored restaurant data for trends in cuisines, ratings & delivery | [View Repo](https://github.com/deepika-06) |
-| 03 | 🛍️ **Vrinda Store Analysis** | Excel, Pivot Tables, Charts | Sales dashboard for annual business review using Excel | [View Repo](https://github.com/deepika-06) |
+| 01 | 🛒 **BigBasket EDA** | Python, Pandas, Seaborn | Analyzed 27K+ products — pricing, discounts, ratings & top brands | [View Repo](https://github.com/deepikaa-06) |
+| 02 | 🍽️ **Zomato EDA** | Python, Matplotlib, Seaborn | Explored restaurant data for trends in cuisines, ratings & delivery | [View Repo](https://github.com/deepikaa-06) |
+| 03 | 🛍️ **Vrinda Store Analysis** | Excel, Pivot Tables, Charts | Sales dashboard for annual business review using Excel | [View Repo](https://github.com/deepikaa-06) |
 | 04 | 🔜 **More Coming Soon...** | Power BI / Tableau / SQL | Currently building more projects — watch this space! | ⭐ Star to follow |
 
 ---
@@ -88,7 +88,7 @@ deepika = {
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepika-06&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepikaa-06&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
@@ -111,7 +111,7 @@ deepika = {
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deepika-06&label=Profile%20Views&color=6A0DAD&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=deepikaa-06&label=Profile%20Views&color=6A0DAD&style=flat-square" />
 </p>
 
 ---
@@ -123,6 +123,3 @@ deepika = {
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=80&section=footer"/>
 </p>
-
-
-
